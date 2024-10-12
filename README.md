@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **gayathriganapathy1006@gmail.com**
+- 📫 How to reach me **gayathrigaya3ece@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
