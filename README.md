@@ -58,44 +58,47 @@
 
 <div align="center">
 
-<!-- Java ATM Machine -->
-<a href="https://github.com/sharansidh-0301/Java-ATM-Machine" target="_blank">
-  <img src="https://img.shields.io/badge/🏦 Java ATM Machine-Click to View-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
-</a>  
-<br>
-💳 Core banking simulation using JDBC, MySQL & Java.<br>
-<sub><code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Eclipse</code></sub>
+<table>
+  <tr>
 
-<br><br>
+  <!-- Java ATM Machine -->
+<td align="center" width="33%" style="border: 3px dashed #8e44ad; border-radius: 12px; padding: 20px;">
+  <h3>🏦 Java ATM Machine</h3>
+  <p><em>Core banking simulation using JDBC, MySQL & Java.</em></p>
+  <a href="https://github.com/sharansidh-0301/Java-ATM-Machine" target="_blank">
+    <img src="https://img.shields.io/badge/View Repo-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  <br><br>
+  <code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Eclipse</code>
+</td>
 
 <!-- Debugging Dare -->
-<a href="https://github.com/sharansidh-0301/debugging-dare" target="_blank">
-  <img src="https://img.shields.io/badge/🐍 Debugging Dare-Try it Now-pink?style=for-the-badge&logo=python&logoColor=white" />
-</a>  
-<br>
-🧠 A fun debugging platform built with Django & Tailwind.<br>
-<sub><code>Django</code> <code>Tailwind</code> <code>Python</code></sub>
-
-<br><br>
+<td align="center" width="33%" style="border: 3px dotted #e84393; border-radius: 12px; padding: 20px;">
+  <h3>🐍 Debugging Dare</h3>
+  <p><em>A fun debugging challenge built using Django & Tailwind.</em></p>
+  <a href="https://github.com/sharansidh-0301/debugging-dare" target="_blank">
+    <img src="https://img.shields.io/badge/View Repo-pink?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <br><br>
+  <code>Django</code> <code>Tailwind</code> <code>Python</code>
+</td>
 
 <!-- Sewage Gas Monitoring -->
-<a href="https://github.com/sharansidh-0301/sewage-gas-monitoring" target="_blank">
-  <img src="https://img.shields.io/badge/🛢️ Sewage Gas Monitoring-Explore-green?style=for-the-badge&logo=arduino&logoColor=white" />
-</a>  
-<br>
-🌍 IoT-based smart system to monitor & neutralize harmful gases.<br>
-<sub><code>ESP32</code> <code>MQ2</code> <code>IoT</code></sub>
+<td align="center" width="33%" style="border: 3px solid #27ae60; border-radius: 12px; padding: 20px;">
+  <h3>🛢️ Sewage Gas Monitoring</h3>
+  <p><em>IoT-based gas sensor system for environmental protection.</em></p>
+  <a href="https://github.com/sharansidh-0301/sewage-gas-monitoring" target="_blank">
+    <img src="https://img.shields.io/badge/View Repo-green?style=for-the-badge&logo=arduino&logoColor=white" />
+  </a>
+  <br><br>
+  <code>ESP32</code> <code>MQ2</code> <code>IoT</code>
+</td>
 
+
+  </tr>
+</table>
 </div>
 
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gayathri1006/gayathri1006/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
