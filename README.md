@@ -9,14 +9,11 @@
 
 ## 💫 About Me
 
-| Passion | Focus | Currently Exploring | Fun Side |
-|--------|--------|----------------------|-----------|
-| Crafting engaging UIs | Empathetic design thinking | React, Tailwind, Django | Journaling, UI doodles 🎨 |
-
 - 💌 Lover of aesthetically elegant user experiences  
 - 🌱 Committed to lifelong learning and polished pixels  
 - 🧠 Obsessed with detail and responsive design  
-- 📫 Reach out: **gayathrigaya3@gmail.com**
+- 🎨 Passionate about empathetic design thinking  
+- 📫 Reach me at: **gayathrigaya3@gmail.com**
 
 ---
 
@@ -28,51 +25,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [UI Blossom](https://github.com/gayathri1006/ui-blossom) | A collection of elegant UI components | React, TailwindCSS |
-| [CodeCanvas](https://github.com/gayathri1006/codecanvas) | A creative coding playground | HTML, CSS, JS |
-| [Pixel Diary](https://github.com/gayathri1006/pixel-diary) | A minimalist journaling app | Django, SQLite, Bootstrap |
-
----
-
-## 📌 Now
-
-- ✨ Building: A personal portfolio with animations  
-- 📚 Learning: TypeScript & Framer Motion  
-- 🎧 Listening to: Lo-fi beats while coding  
-- 📖 Reading: “Refactoring UI” by Adam Wathan  
-
----
-
-## ✍️ Latest Blog Posts
-
-- [Designing with Empathy](https://dev.to/gayathri1006/designing-with-empathy)
-- [Tailwind Tips for Beginners](https://dev.to/gayathri1006/tailwind-tips)
-- [Why UI Matters More Than Ever](https://dev.to/gayathri1006/ui-matters)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayathri1006&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathri1006&layout=compact&theme=radical&hide_border=true" height="180"/>
-</div>
-
----
-
-## 🔥 Current Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gayathri1006&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
----
-
-## ✨ GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gayathri1006&theme=gruvbox&no-frame=true&row=1&column=6" />
@@ -80,11 +33,61 @@
 
 ---
 
-## 🧠 Recent Contributions Activity
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gayathri1006&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathri1006&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gayathri1006&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+---
+
+## 🧠 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayathri1006&theme=tokyo-night&area=true&hide_border=true" />
 </p>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<!-- Java ATM Machine -->
+<a href="https://github.com/sharansidh-0301/Java-ATM-Machine" target="_blank">
+  <img src="https://img.shields.io/badge/🏦 Java ATM Machine-Click to View-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
+</a>  
+<br>
+💳 Core banking simulation using JDBC, MySQL & Java.<br>
+<sub><code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Eclipse</code></sub>
+
+<br><br>
+
+<!-- Debugging Dare -->
+<a href="https://github.com/sharansidh-0301/debugging-dare" target="_blank">
+  <img src="https://img.shields.io/badge/🐍 Debugging Dare-Try it Now-pink?style=for-the-badge&logo=python&logoColor=white" />
+</a>  
+<br>
+🧠 A fun debugging platform built with Django & Tailwind.<br>
+<sub><code>Django</code> <code>Tailwind</code> <code>Python</code></sub>
+
+<br><br>
+
+<!-- Sewage Gas Monitoring -->
+<a href="https://github.com/sharansidh-0301/sewage-gas-monitoring" target="_blank">
+  <img src="https://img.shields.io/badge/🛢️ Sewage Gas Monitoring-Explore-green?style=for-the-badge&logo=arduino&logoColor=white" />
+</a>  
+<br>
+🌍 IoT-based smart system to monitor & neutralize harmful gases.<br>
+<sub><code>ESP32</code> <code>MQ2</code> <code>IoT</code></sub>
+
+</div>
+
 
 ---
 
@@ -95,6 +98,7 @@
 </p>
 
 ---
+
 
 ## 📬 Connect with Me
 
