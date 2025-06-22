@@ -1,4 +1,4 @@
-<h1 align="center">🌹 Hello Love, I'm [Her Name] ❤️</h1>
+<h1 align="center">🌹 Hey There, I'm Gayathri G ❤️</h1>
 <h3 align="center">💻 A Dev Girl Coding with 💖 and Creativity</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 💕 I believe in coding with empathy and creativity  
 - 🌱 Learning new technologies like **React**, **TailwindCSS**, **Python**, and **Django**  
 - 💫 I enjoy combining logic with aesthetics  
-- ✉️ Reach me at: `her.email@example.com`
+- ✉️ Reach me at: `gayathrigaya3@gmail.com`
 
 ---
 
@@ -44,9 +44,10 @@
 
 ### 🐍 GitHub Snake (Love Edition)
 
-```md
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/her-github-username/her-github-username/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+```md
