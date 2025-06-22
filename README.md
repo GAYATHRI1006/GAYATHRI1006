@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/View Repo-green?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
   <br><br>
-    <code>ESP8266</code> <code>SW-420</code> <code>Buzzer</code> <code>Solenoid Valve</code> <code>Blynk</code>
+    <code>ESP8266</code> <code>SW-420</code> <code>Solenoid Valve</code> <code>Blynk</code>
 </td>
 
 
