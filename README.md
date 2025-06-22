@@ -58,7 +58,7 @@
 <!-- 🌍 Earthquake Alert & Detection -->
 <td align="center" width="33%" style="border: 3px solid #27ae60; border-radius: 12px; padding: 20px;">
   <h3>🌍 Earthquake Alert & Detection</h3>
-  <p><em>IoT-based earthquake alert system for real-time seismic activity detection and prevention.</em></p>
+  <p><em>IoT-based earthquake alert system for seismic activity detection and prevention.</em></p>
   <a href="https://github.com/GAYATHRI1006/Earthquake_Alert_System" target="_blank">
     <img src="https://img.shields.io/badge/View Repo-green?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
