@@ -28,8 +28,8 @@
 ### ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=her-github-username&show_icons=true&theme=cobalt&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=her-github-username&layout=compact&theme=cobalt&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gayathri1006&show_icons=true&theme=cobalt&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathri1006&layout=compact&theme=cobalt&hide_border=true" width="48%" />
 </p>
 
 ---
