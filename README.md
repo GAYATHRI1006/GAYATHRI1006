@@ -1,9 +1,9 @@
 <h1 align="center">🌷 Hello World, I'm <span style="color:#e75480;">Gayathri G</span> 💖</h1>
 <h3 align="center">👩‍💻 Frontend Enthusiast | Creative Coder | UI Whisperer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=26&duration=3000&pause=1200&color=ff5e99&center=true&vCenter=true&multiline=true&width=500&lines=Designing+beautiful+interfaces+✨;Bringing+code+to+life+🌈;Frontend+flair,+with+a+touch+of+care💐" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Networking+Engineer;;AI+Researcher;IoT+System+Designer;Debugging+Champion;Always+Learning&center=true&width=500&height=30" alt="Typing SVG" />
+</div>
 
 ---
 
