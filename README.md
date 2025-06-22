@@ -1,4 +1,6 @@
-<h1 align="center">🌷 Hello World, I'm <span style="color:#e75480;">Gayathri G</span> 💖</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header&text=Welcome+to+Gayathri's+GitHub+💖&fontSize=30&fontColor=fff" />
+</p>
 <h3 align="center">👩‍💻 Frontend Enthusiast | Creative Coder | UI Whisperer</h3>
 
 <div align="center">
@@ -6,14 +8,13 @@
 </div>
 
 ---
+## 💖 About Me
 
-## 💫 About Me
-
-- 💌 Lover of aesthetically elegant user experiences  
-- 🌱 Committed to lifelong learning and polished pixels  
-- 🧠 Obsessed with detail and responsive design  
-- 🎨 Passionate about empathetic design thinking  
-- 📫 Reach me at: **gayathrigaya3@gmail.com**
+- 🎀 I blend **beauty and usability** into pixel-perfect user interfaces.  
+- 💡 Curious soul forever chasing the next creative spark.  
+- 🎯 Focused on crafting **responsive, intuitive**, and **meaningful** web experiences.  
+- 🌸 Believer in **design empathy**, color psychology, and inclusive UX.  
+- 📬 Let’s connect & collaborate: **gayathrigaya3@gmail.com**
 
 ---
 
