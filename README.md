@@ -15,6 +15,7 @@
 - 💡 Curious soul forever chasing the next creative spark.  
 - 🎯 Focused on crafting **responsive, intuitive**, and **meaningful** web experiences.  
 - 🌸 Believer in **design empathy**, color psychology, and inclusive UX.
+- 📬 Let’s connect & collaborate: **gayathrigaya3ece@gmail.com**
 
 ---
 
