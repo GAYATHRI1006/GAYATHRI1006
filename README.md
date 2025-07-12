@@ -10,6 +10,7 @@
 ---
 ## 💖 About Me
 
+
 - 🎀 I blend **beauty and usability** into pixel-perfect user interfaces.  
 - 💡 Curious soul forever chasing the next creative spark.  
 - 🎯 Focused on crafting **responsive, intuitive**, and **meaningful** web experiences.  
