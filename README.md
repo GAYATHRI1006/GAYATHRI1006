@@ -57,7 +57,7 @@
   <code>Django</code> <code>Tailwind</code> <code>Python</code>
 </td>
 
-<!-- 🌍 Earthquake Alert & Detection -->
+
 <td align="center" width="33%" style="border: 3px solid #27ae60; border-radius: 12px; padding: 20px;">
   <h3>🌍 Earthquake Alert & Detection</h3>
   <p><em>IoT-based earthquake alert system for seismic activity detection and prevention.</em></p>
