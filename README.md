@@ -37,7 +37,6 @@
 <table>
   <tr>
 
-  <!-- Java ATM Machine -->
 <td align="center" width="33%" style="border: 3px dashed #8e44ad; border-radius: 12px; padding: 20px;">
   <h3>🏦 Java ATM Machine</h3>
   <p><em>Core banking simulation using JDBC, MySQL & Java.</em></p>
@@ -48,7 +47,6 @@
   <code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Eclipse</code>
 </td>
 
-<!-- Debugging Dare -->
 <td align="center" width="33%" style="border: 3px dotted #e84393; border-radius: 12px; padding: 20px;">
   <h3>🐍 Debugging Dare</h3>
   <p><em>A fun debugging challenge built using Django & Tailwind.</em></p>
