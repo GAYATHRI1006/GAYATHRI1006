@@ -13,6 +13,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GAYATHRI1006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+## 💖 About Me
+
+- 🎀 I blend **beauty and usability** into pixel-perfect user interfaces.  
+- 💡 Curious soul forever chasing the next creative spark.  
+- 🎯 Focused on crafting **responsive, intuitive**, and **meaningful** web experiences.  
+- 🌸 Believer in **design empathy**, color psychology, and inclusive UX.
+- 📬 Let’s connect & collaborate: **gayathrigaya3ece@gmail.com**
+
+---
 
 
 ## 🛠️ Tech Stack
