@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header&text=Welcome+to+Gayathri's+GitHub+Profile💖&fontSize=30&fontColor=fff" />
-</p>
-<h3 align="center">👩‍💻 Frontend Enthusiast | 💡Creative Coder  | 🌐  Tech Fusionist </h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Networking+Engineer;;AI+Researcher;IoT+System+Designer;Debugging+Champion;Always+Learning&center=true&width=500&height=30" alt="Typing SVG" />
-</div>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GAYATHRI1006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
