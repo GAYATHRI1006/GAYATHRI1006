@@ -94,7 +94,7 @@
   <a href="http://www.skillrack.com/profile/485348/638b5d1882a0efaf0e5fc49106291e892bf7d2d3" target="_blank">
     <img src="https://img.shields.io/badge/-SkillRack-blueviolet?style=for-the-badge&logo=code&logoColor=white" />
   </a>
-  <a href="https://gayathri-dev-folio.vercel.app/" target="_blank">
+  <a href="https://gayathridevfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
