@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/View%20Repo-3498db?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <br><br>
-  <code>React (Vite)</code> <code>FastAPI</code> <code>MySQL</code> <code>LLM APIs (Gemini/OpenRouter)</code>
+  <code>React</code> <code>FastAPI</code> <code>MySQL</code> <code>LLM APIs </code>
 </td>
 
 
