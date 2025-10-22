@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header&text=Welcome+to+Gayathri's+GitHub+Profile💖&fontSize=30&fontColor=fff" />
 </p>
-<h3 align="center">👩‍💻 **Frontend Enthusiast** | 💡 **Creative Coder** | 🌐 **Tech Fusionist** | 🤖 Exploring the magic of **Generative AI** </h3>
+<h3 align="center">
+👩‍💻 <b>Frontend Enthusiast</b> | 💡 <b>Creative Coder</b> | 🌐 <b>Tech Fusionist</b> | 🤖 <b>Exploring the magic of Generative AI</b>
+</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Networking+Engineer;;AI+Researcher;IoT+System+Designer;Debugging+Champion;Always+Learning&center=true&width=500&height=30" alt="Typing SVG" />
