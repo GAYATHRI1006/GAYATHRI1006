@@ -16,11 +16,14 @@
 
 ## 💖 About me
 
-- 🎀 I blend **beauty and usability** into pixel-perfect user interfaces.  
-- 💡 Curious soul forever chasing the next creative spark.  
-- 🎯 Focused on crafting **responsive, intuitive**, and **meaningful** web experiences.  
-- 🌸 Believer in **design empathy**, color psychology, and inclusive UX.
-- 📬 Let’s connect & collaborate: **gayathrigaya3ece@gmail.com**
+- 🎀 I blend **beauty and usability** into pixel-perfect, user-centered interfaces.  
+- 💡 A **curious developer** passionate about merging creativity with technology.  
+- 💻 Skilled in **Java, Python, React, Tailwind CSS, and MySQL** — building responsive and intelligent web applications.  
+- 🌱 Currently exploring **AI-powered SaaS**, **IoT-based systems**, and **modern full-stack development**.  
+- 🎯 Focused on crafting **intuitive, accessible, and impactful** digital experiences.  
+- 🌸 Believer in **design empathy**, **color psychology**, and **inclusive UX principles**.  
+- ✨ Always eager to **learn, build, and share** innovative tech ideas.  
+- 📬 Let’s connect & collaborate: **[gayathrigaya3ece@gmail.com](mailto:gayathrigaya3ece@gmail.com)**
 
 ---
 
