@@ -43,15 +43,16 @@
 <table>
   <tr>
 
-<td align="center" width="33%" style="border: 3px dashed #8e44ad; border-radius: 12px; padding: 20px;">
-  <h3>🏦 Java ATM Machine</h3>
-  <p><em>Core banking simulation using JDBC, MySQL & Java.</em></p>
-  <a href="https://github.com/GAYATHRI1006/Java_Project" target="_blank">
-    <img src="https://img.shields.io/badge/View Repo-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
+<td align="center" width="33%" style="border: 3px dashed #3498db; border-radius: 12px; padding: 20px;">
+  <h3>🧠 Talk to Your Database</h3>
+  <p><em>AI-powered web app to query MySQL databases using plain English.</em></p>
+  <a href="https://github.com/GAYATHRI1006/Talk_To_Database" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-3498db?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <br><br>
-  <code>Java</code> <code>MySQL</code> <code>JDBC</code> <code>Eclipse</code>
+  <code>React (Vite)</code> <code>FastAPI</code> <code>MySQL</code> <code>LLM APIs (Gemini/OpenRouter)</code>
 </td>
+
 
 <td align="center" width="33%" style="border: 3px dotted #e84393; border-radius: 12px; padding: 20px;">
   <h3>🐍 Debugging Dare</h3>
