@@ -16,7 +16,6 @@
 </p>
 
 
-
 ## 💖 About me
 
 - 🎀 I blend **beauty and usability** into pixel-perfect, user-centered interfaces.  
