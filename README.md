@@ -15,7 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=GAYATHRI1006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-
 ## 💖 About me
 
 - 🎀 I blend **beauty and usability** into pixel-perfect, user-centered interfaces.  
