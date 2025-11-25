@@ -9,8 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Networking+Engineer;;AI+Researcher;IoT+System+Designer;Debugging+Champion;Always+Learning&center=true&width=500&height=30" alt="Typing SVG" />
 </div>
 
-
-
 ---
 
 <p align="center">
