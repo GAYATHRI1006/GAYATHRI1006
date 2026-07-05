@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Hi,%20I'm%20Gayathri%20G%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=170&section=header&text=Hi,%20I'm%20Gayathri%20G%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
@@ -9,12 +9,12 @@
 
 
 <p align="center">
-Building scalable applications, intelligent automation workflows & AI-powered solutions
+Building scalable applications, intelligent automation workflows & AI-powered software solutions
 </p>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=Java+Developer;Spring+Boot+Developer;Full+Stack+Engineer;AI+%26+LLM+Integration;REST+API+Developer;Problem+Solver&center=true&width=700&height=40">
+<img src="https://readme-typing-svg.demolab.com?lines=Java+Developer;Spring+Boot+Developer;Full+Stack+Engineer;AI+%26+LLM+Integration;REST+API+Developer;Problem+Solver&center=true&width=650&height=40">
 </p>
 
 
@@ -25,168 +25,111 @@ Building scalable applications, intelligent automation workflows & AI-powered so
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 
-Hi, I'm **Gayathri G**, a Software Engineer passionate about building scalable backend systems, full-stack applications, and AI-powered automation solutions.
+Hi, I'm **Gayathri G**, a Software Engineer passionate about developing scalable backend systems, full-stack applications, and intelligent automation solutions.
 
 
 - 💼 Associate Software Engineer with hands-on software development experience
 
-- ⚙️ Building backend applications using Java, Spring Boot, REST APIs, and databases
+- ⚙️ Building backend systems using Java, Spring Boot, REST APIs, and databases
 
-- 🤖 Experienced in AI-powered solutions using LLM integrations and MCP architecture
+- 🤖 Experienced in AI-powered applications using LLM integrations and MCP architecture
 
-- 🔗 Developed business automation workflows integrating:
+- 🔗 Developed automation workflows integrating:
   - WhatsApp Business APIs
   - Telegram Bots
   - CRM Systems
   - Payment & Invoice Automation
   - Third-party APIs
 
-- 💡 Interested in solving real-world problems through software engineering
+- 💡 Interested in backend engineering, AI solutions, and solving real-world problems
 
-- 📚 Strengthening Data Structures, Algorithms & System Design
+- 📚 Improving Data Structures, Algorithms & System Design
 
 
-📩 Contact: **gayathrigaya3ece@gmail.com**
+📩 **Email:** gayathrigaya3ece@gmail.com
 
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 
-## Programming Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript">
 </p>
 
 
----
-
-
-## Backend Development
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,maven" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,maven">
+</p>
+
+`Spring Boot` • `REST APIs` • `FastAPI` • `JDBC` • `Maven` • `API Integration`
+
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind">
+</p>
+
+`HTML` • `CSS` • `JavaScript` • `React` • `Tailwind CSS`
+
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase">
+</p>
+
+`MySQL` • `PostgreSQL` • `Supabase`
+
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse">
 </p>
 
 
-```
-Spring Boot
-REST API Development
-FastAPI
-JDBC
-Maven
-API Integrations
-```
+### AI & Automation
+
+`LLM Integration` • `MCP Architecture` • `AI Agents` • `Workflow Automation` • `CRM Automation`
 
 
 ---
 
-
-## Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-
-```
-HTML
-CSS
-JavaScript
-React
-Tailwind CSS
-```
-
-
----
-
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
-</p>
-
-
-```
-MySQL
-PostgreSQL
-Supabase
-Database Design
-```
-
-
----
-
-
-## Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse" />
-</p>
-
-
-```
-Git
-GitHub
-Docker
-Postman
-VS Code
-Eclipse
-```
-
-
----
-
-
-## AI & Automation
-
-
-```
-Large Language Models (LLMs)
-MCP Architecture
-AI Agents
-Workflow Automation
-CRM Automation
-Business Process Automation
-```
-
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 
 <table>
 
 <tr>
 
+
 <td width="50%" align="center">
 
+### 🧠 Talk To Your Database
 
-## 🧠 Talk To Your Database
+AI-powered SaaS application that converts natural language into SQL queries.
 
-
-AI-powered SaaS platform that converts natural language into SQL queries.
-
-
-### Features
+**Features**
 
 ✔ Natural Language → SQL  
 ✔ Gemini LLM Integration  
-✔ Conversational Database Access  
-✔ Full Stack Architecture  
+✔ Database Query Automation  
+✔ Full Stack Architecture
 
 
-### Tech Stack
+**Tech Stack**
 
 `React` `FastAPI` `MySQL` `Gemini LLM`
-
 
 <a href="https://github.com/GAYATHRI1006/Talk_To_Database">
 <img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
@@ -198,25 +141,22 @@ AI-powered SaaS platform that converts natural language into SQL queries.
 
 <td width="50%" align="center">
 
+### 🛒 Shopping Mall Management System
 
-## 🛒 Shopping Mall Management System
-
-
-Order Management backend system built with enterprise architecture.
+Enterprise-style Order Management backend application.
 
 
-### Features
+**Features**
 
-✔ REST API Development  
+✔ REST APIs  
 ✔ CRUD Operations  
-✔ Data Validation  
-✔ API Testing  
+✔ Validation Handling  
+✔ API Testing
 
 
-### Tech Stack
+**Tech Stack**
 
 `Java` `Spring Boot` `PostgreSQL` `Postman`
-
 
 <a href="https://github.com/GAYATHRI1006">
 <img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
@@ -228,30 +168,29 @@ Order Management backend system built with enterprise architecture.
 </tr>
 
 
+
 <tr>
 
 
 <td width="50%" align="center">
 
-
-## 🤖 IFET Virtual Helpdesk
-
-
-AI chatbot platform developed to automate campus information services.
+### 🤖 IFET Virtual Helpdesk
 
 
-### Features
+AI-powered chatbot system for automated campus assistance.
+
+
+**Features**
 
 ✔ NLP Chatbot  
-✔ FAQ Management  
+✔ FAQ Automation  
 ✔ Admin Module  
-✔ Query Automation  
+✔ Analytics
 
 
-### Tech Stack
+**Tech Stack**
 
 `Rasa` `Python` `PostgreSQL` `Docker`
-
 
 <a href="https://github.com/GAYATHRI1006">
 <img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
@@ -264,24 +203,22 @@ AI chatbot platform developed to automate campus information services.
 
 <td width="50%" align="center">
 
-
-## 🐍 Debugging Dare
+### 🐍 Debugging Dare
 
 
 Interactive coding challenge platform.
 
 
-### Features
+**Features**
 
 ✔ Responsive UI  
-✔ Dynamic Rendering  
+✔ Dynamic Pages  
 ✔ Debugging Challenges
 
 
-### Tech Stack
+**Tech Stack**
 
 `Django` `Python` `Tailwind CSS`
-
 
 <a href="https://github.com/GAYATHRI1006/Debugging_Dare">
 <img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
@@ -290,6 +227,7 @@ Interactive coding challenge platform.
 
 </td>
 
+
 </tr>
 
 </table>
@@ -297,7 +235,7 @@ Interactive coding challenge platform.
 
 ---
 
-# 📈 Coding Profiles
+## 📈 Coding Profiles
 
 
 <p align="center">
@@ -309,7 +247,7 @@ Interactive coding challenge platform.
 
 
 <a href="https://www.geeksforgeeks.org/profile/gayathrigexo2">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+<img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
 </a>
 
 
@@ -323,7 +261,7 @@ Interactive coding challenge platform.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 
 <p align="center">
@@ -340,7 +278,7 @@ Interactive coding challenge platform.
 
 
 <a href="mailto:gayathrigaya3ece@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
 
@@ -349,38 +287,43 @@ Interactive coding challenge platform.
 
 ---
 
-# 🏆 GitHub Trophies
-
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GAYATHRI1006&theme=algolia&no-frame=true&row=1">
-</p>
-
-
----
-
-# 📊 GitHub Analytics
+## 🏆 GitHub Trophies
 
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GAYATHRI1006&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAYATHRI1006&layout=compact&theme=tokyonight&hide_border=true">
-
-</p>
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=GAYATHRI1006&theme=tokyonight&hide_border=true">
+<img src="https://github-profile-trophy.vercel.app/?username=GAYATHRI1006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
 
 </p>
 
 
 ---
 
-# 📌 Contribution Graph
+## 📊 GitHub Analytics
+
+
+<p align="center">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GAYATHRI1006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAYATHRI1006&layout=compact&theme=tokyonight&hide_border=true">
+
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GAYATHRI1006&theme=tokyonight&hide_border=true">
+
+</p>
+
+
+---
+
+## 📌 Contribution Activity
 
 
 <p align="center">
@@ -392,9 +335,8 @@ Interactive coding challenge platform.
 
 ---
 
-
 <p align="center">
 
-✨ Transforming ideas into scalable software solutions with code, automation, and AI ✨
+✨ Building scalable software solutions with Code + Automation + AI ✨
 
 </p>
