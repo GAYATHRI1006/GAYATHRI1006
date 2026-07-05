@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=170&section=header&text=Hi,%20I'm%20Gayathri%20G%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=160&section=header&text=Hi,%20I'm%20Gayathri%20G%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
@@ -9,12 +9,12 @@
 
 
 <p align="center">
-Building scalable applications, intelligent automation workflows & AI-powered software solutions
+Building scalable applications, automation workflows & AI-powered software solutions
 </p>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=Java+Developer;Spring+Boot+Developer;Full+Stack+Engineer;AI+%26+LLM+Integration;REST+API+Developer;Problem+Solver&center=true&width=650&height=40">
+<img src="https://readme-typing-svg.demolab.com?lines=Java+Developer;Spring+Boot+Developer;Full+Stack+Engineer;AI+%26+LLM+Integration;REST+API+Developer&center=true&width=650&height=40">
 </p>
 
 
@@ -28,23 +28,23 @@ Building scalable applications, intelligent automation workflows & AI-powered so
 ## 👩‍💻 About Me
 
 
-Hi, I'm **Gayathri G**, a Software Engineer passionate about developing scalable backend systems, full-stack applications, and intelligent automation solutions.
+Hi, I'm **Gayathri G**, a Software Engineer passionate about building scalable backend systems, full-stack applications, and AI-powered solutions.
 
 
-- 💼 Associate Software Engineer with hands-on software development experience
+- 💼 Associate Software Engineer with hands-on development experience
 
-- ⚙️ Building backend systems using Java, Spring Boot, REST APIs, and databases
+- ⚙️ Building backend applications using **Java, Spring Boot, REST APIs, FastAPI**
 
-- 🤖 Experienced in AI-powered applications using LLM integrations and MCP architecture
+- 🤖 Working with **LLM Integration, MCP Architecture & AI Automation**
 
-- 🔗 Developed automation workflows integrating:
+- 🔗 Experience developing automation workflows with:
   - WhatsApp Business APIs
   - Telegram Bots
   - CRM Systems
-  - Payment & Invoice Automation
-  - Third-party APIs
+  - Payment Automation
+  - Third-party Integrations
 
-- 💡 Interested in backend engineering, AI solutions, and solving real-world problems
+- 💡 Interested in Backend Engineering, AI Solutions & Product Development
 
 - 📚 Improving Data Structures, Algorithms & System Design
 
@@ -57,14 +57,14 @@ Hi, I'm **Gayathri G**, a Software Engineer passionate about developing scalable
 ## 🛠️ Tech Stack
 
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,javascript">
 </p>
 
 
-### Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,maven">
@@ -73,7 +73,7 @@ Hi, I'm **Gayathri G**, a Software Engineer passionate about developing scalable
 `Spring Boot` • `REST APIs` • `FastAPI` • `JDBC` • `Maven` • `API Integration`
 
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind">
@@ -91,7 +91,7 @@ Hi, I'm **Gayathri G**, a Software Engineer passionate about developing scalable
 `MySQL` • `PostgreSQL` • `Supabase`
 
 
-### Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse">
@@ -100,7 +100,7 @@ Hi, I'm **Gayathri G**, a Software Engineer passionate about developing scalable
 
 ### AI & Automation
 
-`LLM Integration` • `MCP Architecture` • `AI Agents` • `Workflow Automation` • `CRM Automation`
+`LLMs` • `MCP Architecture` • `AI Agents` • `Workflow Automation` • `CRM Automation`
 
 
 ---
@@ -112,54 +112,60 @@ Hi, I'm **Gayathri G**, a Software Engineer passionate about developing scalable
 
 <tr>
 
-
 <td width="50%" align="center">
 
 ### 🧠 Talk To Your Database
 
-AI-powered SaaS application that converts natural language into SQL queries.
+
+AI SaaS application converting natural language into SQL queries.
+
 
 **Features**
 
 ✔ Natural Language → SQL  
 ✔ Gemini LLM Integration  
-✔ Database Query Automation  
-✔ Full Stack Architecture
+✔ Database Automation  
+✔ Full Stack Development
 
 
-**Tech Stack**
+**Tech**
 
 `React` `FastAPI` `MySQL` `Gemini LLM`
 
+
 <a href="https://github.com/GAYATHRI1006/Talk_To_Database">
-<img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View Repo-black?style=for-the-badge&logo=github">
 </a>
 
 
 </td>
 
 
+
 <td width="50%" align="center">
+
 
 ### 🛒 Shopping Mall Management System
 
-Enterprise-style Order Management backend application.
+
+Order management backend application.
 
 
 **Features**
 
 ✔ REST APIs  
 ✔ CRUD Operations  
-✔ Validation Handling  
+✔ Validation  
 ✔ API Testing
 
 
-**Tech Stack**
+**Tech**
 
 `Java` `Spring Boot` `PostgreSQL` `Postman`
 
+
 <a href="https://github.com/GAYATHRI1006">
-<img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View Repo-black?style=for-the-badge&logo=github">
 </a>
 
 
@@ -174,10 +180,11 @@ Enterprise-style Order Management backend application.
 
 <td width="50%" align="center">
 
+
 ### 🤖 IFET Virtual Helpdesk
 
 
-AI-powered chatbot system for automated campus assistance.
+AI chatbot system for campus information automation.
 
 
 **Features**
@@ -185,15 +192,15 @@ AI-powered chatbot system for automated campus assistance.
 ✔ NLP Chatbot  
 ✔ FAQ Automation  
 ✔ Admin Module  
-✔ Analytics
 
 
-**Tech Stack**
+**Tech**
 
 `Rasa` `Python` `PostgreSQL` `Docker`
 
+
 <a href="https://github.com/GAYATHRI1006">
-<img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View Repo-black?style=for-the-badge&logo=github">
 </a>
 
 
@@ -203,32 +210,34 @@ AI-powered chatbot system for automated campus assistance.
 
 <td width="50%" align="center">
 
+
 ### 🐍 Debugging Dare
 
 
-Interactive coding challenge platform.
+Interactive debugging challenge platform.
 
 
 **Features**
 
-✔ Responsive UI  
 ✔ Dynamic Pages  
-✔ Debugging Challenges
+✔ Responsive UI  
+✔ Challenge System
 
 
-**Tech Stack**
+**Tech**
 
-`Django` `Python` `Tailwind CSS`
+`Django` `Python` `Tailwind`
+
 
 <a href="https://github.com/GAYATHRI1006/Debugging_Dare">
-<img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View Repo-black?style=for-the-badge&logo=github">
 </a>
 
 
 </td>
 
-
 </tr>
+
 
 </table>
 
@@ -242,12 +251,12 @@ Interactive coding challenge platform.
 
 
 <a href="https://leetcode.com/u/GAYATHRI1006/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 </a>
 
 
 <a href="https://www.geeksforgeeks.org/profile/gayathrigexo2">
-<img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+<img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks">
 </a>
 
 
@@ -287,28 +296,19 @@ Interactive coding challenge platform.
 
 ---
 
-## 🏆 GitHub Trophies
-
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GAYATHRI1006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
-
-</p>
-
-
----
-
 ## 📊 GitHub Analytics
 
 
 <p align="center">
 
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GAYATHRI1006&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GAYATHRI1006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true">
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAYATHRI1006&layout=compact&theme=tokyonight&hide_border=true">
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GAYATHRI1006&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 
 </p>
@@ -337,6 +337,6 @@ Interactive coding challenge platform.
 
 <p align="center">
 
-✨ Building scalable software solutions with Code + Automation + AI ✨
+✨ Building reliable software solutions using Code + Automation + AI ✨
 
 </p>
