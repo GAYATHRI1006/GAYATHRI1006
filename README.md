@@ -295,30 +295,13 @@ Interactive debugging challenge platform.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gayathri1006&theme=gruvbox&no-frame=true&row=1&column=6" />
-
-</p>
-
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 
 <p align="center">
 
 <img 
-width="48%" 
-src="https://github-readme-stats.vercel.app/api?username=gayathri1006&show_icons=true&theme=radical&hide_border=true" 
-/>
-
-<img 
-width="48%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathri1006&layout=compact&theme=radical&hide_border=true" 
+src="https://github-readme-streak-stats-eight.vercel.app/?user=GAYATHRI1006&theme=tokyonight&hide_border=true"
 />
 
 </p>
@@ -327,7 +310,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathri1006
 <p align="center">
 
 <img 
-src="https://streak-stats.demolab.com/?user=gayathri1006&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+src="https://github-contributor-stats.vercel.app/api?username=GAYATHRI1006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
 />
 
 </p>
@@ -335,13 +318,41 @@ src="https://streak-stats.demolab.com/?user=gayathri1006&theme=github-dark-blue&
 
 ---
 
-## 📌 Contribution Activity
+## 📈 Contribution Graph
 
 
 <p align="center">
 
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=gayathri1006&theme=tokyo-night&area=true&hide_border=true" 
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=GAYATHRI1006&theme=tokyo-night&hide_border=true"
+/>
+
+</p>
+
+
+---
+
+## 🏅 Achievements
+
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAYATHRI1006&theme=tokyonight"
+/>
+
+</p>
+
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAYATHRI1006&theme=tokyonight"
+/>
+
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAYATHRI1006&theme=tokyonight"
 />
 
 </p>
