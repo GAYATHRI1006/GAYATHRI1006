@@ -293,51 +293,49 @@ Interactive debugging challenge platform.
 
 </p>
 
-
 ---
 
 ## 📊 GitHub Analytics
 
 
-<p align="center">
+<div align="center">
 
 <img 
+width="700"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAYATHRI1006&theme=github_dark"
 />
 
-</p>
+<br><br>
 
-
-<p align="center">
 
 <img
-width="48%"
+height="180"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAYATHRI1006&theme=github_dark"
 />
 
 
 <img
-width="48%"
+height="180"
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAYATHRI1006&theme=github_dark"
 />
 
-</p>
 
+<br><br>
 
-<p align="center">
 
 <img
-width="48%"
+height="180"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GAYATHRI1006&theme=github_dark"
 />
 
 
 <img
-width="48%"
+height="180"
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAYATHRI1006&theme=github_dark&utcOffset=5.5"
 />
 
-</p>
+
+</div>
 
 
 ---
@@ -345,13 +343,14 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 ## 🔥 Contribution Streak
 
 
-<p align="center">
+<div align="center">
 
 <img 
+width="600"
 src="https://github-readme-streak-stats-eight.vercel.app/?user=GAYATHRI1006&theme=dark&hide_border=true"
 />
 
-</p>
+</div>
 
 
 ---
@@ -359,11 +358,23 @@ src="https://github-readme-streak-stats-eight.vercel.app/?user=GAYATHRI1006&them
 ## 📈 Contribution Graph
 
 
-<p align="center">
+<div align="center">
 
 <img
+width="850"
 src="https://github-readme-activity-graph.vercel.app/graph?username=GAYATHRI1006&theme=github-dark&hide_border=true"
 />
+
+</div>
+
+
+---
+
+<p align="center">
+
+✨ Building reliable software solutions using Code + Automation + AI ✨
+
+</p>
 
 </p>
 
