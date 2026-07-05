@@ -4,16 +4,17 @@
 
 
 <h3 align="center">
-🚀 Software Engineer | Full Stack Developer | AI Automation Engineer
+🚀 Software Engineer | Java Backend Developer | Full Stack Developer | AI Automation Engineer
 </h3>
 
+
 <p align="center">
-Building scalable applications, intelligent automation workflows & AI-powered software solutions
+Building scalable applications, intelligent automation workflows & AI-powered solutions
 </p>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=Java+Backend+Developer;Full+Stack+Engineer;AI+%26+LLM+Integration;Spring+Boot+Developer;Building+Production+Ready+Solutions&center=true&width=700&height=40">
+<img src="https://readme-typing-svg.demolab.com?lines=Java+Developer;Spring+Boot+Developer;Full+Stack+Engineer;AI+%26+LLM+Integration;REST+API+Developer;Problem+Solver&center=true&width=700&height=40">
 </p>
 
 
@@ -26,87 +27,135 @@ Building scalable applications, intelligent automation workflows & AI-powered so
 
 # 👩‍💻 About Me
 
-Hi, I'm **Gayathri G**, a passionate **Software Engineer** focused on developing scalable backend systems, AI-powered applications, and automation solutions.
 
-- 💼 Associate Software Engineer with hands-on industry experience
-- 🔥 Experienced in building REST APIs, backend services & workflow automation systems
-- 🤖 Working with AI solutions using LLM integrations and MCP architecture
-- ⚙️ Developed business automation workflows integrating:
-  - WhatsApp Business API
+Hi, I'm **Gayathri G**, a Software Engineer passionate about building scalable backend systems, full-stack applications, and AI-powered automation solutions.
+
+
+- 💼 Associate Software Engineer with hands-on software development experience
+
+- ⚙️ Building backend applications using Java, Spring Boot, REST APIs, and databases
+
+- 🤖 Experienced in AI-powered solutions using LLM integrations and MCP architecture
+
+- 🔗 Developed business automation workflows integrating:
+  - WhatsApp Business APIs
   - Telegram Bots
   - CRM Systems
   - Payment & Invoice Automation
   - Third-party APIs
 
-- 💻 Strong foundation in:
-  - Data Structures & Algorithms
-  - Object-Oriented Programming
-  - Database Design
-  - System Development
+- 💡 Interested in solving real-world problems through software engineering
 
-- 🌱 Currently improving:
-  - Advanced Java Backend Development
-  - Scalable System Design
-  - AI Engineering
+- 📚 Strengthening Data Structures, Algorithms & System Design
 
 
-📩 Reach me: **gayathrigaya3ece@gmail.com**
+📩 Contact: **gayathrigaya3ece@gmail.com**
+
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 
-### Programming Languages
+## Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
 </p>
 
 
-### Backend Development
+---
+
+
+## Backend Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,maven" />
 </p>
 
-- Spring Boot
-- REST API Development
-- FastAPI
-- JDBC
-- Maven
-- API Integrations
+
+```
+Spring Boot
+REST API Development
+FastAPI
+JDBC
+Maven
+API Integrations
+```
 
 
-### Frontend Development
+---
+
+
+## Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 
-### Database
+```
+HTML
+CSS
+JavaScript
+React
+Tailwind CSS
+```
+
+
+---
+
+
+## Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 </p>
 
 
-### Tools & Platforms
+```
+MySQL
+PostgreSQL
+Supabase
+Database Design
+```
+
+
+---
+
+
+## Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse" />
 </p>
 
 
-### AI & Automation
+```
+Git
+GitHub
+Docker
+Postman
+VS Code
+Eclipse
+```
+
+
+---
+
+
+## AI & Automation
+
 
 ```
-✓ Large Language Models (LLMs)
-✓ MCP Architecture
-✓ Workflow Automation
-✓ AI Agents
-✓ CRM Automation
-✓ Business Process Automation
+Large Language Models (LLMs)
+MCP Architecture
+AI Agents
+Workflow Automation
+CRM Automation
+Business Process Automation
 ```
+
 
 ---
 
@@ -117,26 +166,24 @@ Hi, I'm **Gayathri G**, a passionate **Software Engineer** focused on developing
 
 <tr>
 
-
 <td width="50%" align="center">
+
 
 ## 🧠 Talk To Your Database
 
-AI-powered SaaS application that converts natural language questions into SQL queries.
 
-<br>
+AI-powered SaaS platform that converts natural language into SQL queries.
 
-**Features**
 
-✔ Natural Language → SQL Conversion  
+### Features
+
+✔ Natural Language → SQL  
 ✔ Gemini LLM Integration  
-✔ Conversational Database Querying  
-✔ Full Stack Architecture
+✔ Conversational Database Access  
+✔ Full Stack Architecture  
 
 
-<br>
-
-**Tech Stack**
+### Tech Stack
 
 `React` `FastAPI` `MySQL` `Gemini LLM`
 
@@ -145,30 +192,28 @@ AI-powered SaaS application that converts natural language questions into SQL qu
 <img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
 </a>
 
+
 </td>
 
 
 <td width="50%" align="center">
 
+
 ## 🛒 Shopping Mall Management System
 
 
-Order Management module built using enterprise backend architecture.
+Order Management backend system built with enterprise architecture.
 
 
-<br>
+### Features
 
-**Features**
-
+✔ REST API Development  
 ✔ CRUD Operations  
-✔ REST APIs  
-✔ Validation Handling  
-✔ Database Integration  
+✔ Data Validation  
+✔ API Testing  
 
 
-<br>
-
-**Tech Stack**
+### Tech Stack
 
 `Java` `Spring Boot` `PostgreSQL` `Postman`
 
@@ -183,7 +228,6 @@ Order Management module built using enterprise backend architecture.
 </tr>
 
 
-
 <tr>
 
 
@@ -193,24 +237,18 @@ Order Management module built using enterprise backend architecture.
 ## 🤖 IFET Virtual Helpdesk
 
 
-AI-powered chatbot system for automating campus information assistance.
+AI chatbot platform developed to automate campus information services.
 
 
-<br>
+### Features
+
+✔ NLP Chatbot  
+✔ FAQ Management  
+✔ Admin Module  
+✔ Query Automation  
 
 
-**Features**
-
-✔ NLP Based Chatbot  
-✔ FAQ Automation  
-✔ Admin Management  
-✔ Analytics Dashboard
-
-
-<br>
-
-
-**Tech Stack**
+### Tech Stack
 
 `Rasa` `Python` `PostgreSQL` `Docker`
 
@@ -227,26 +265,20 @@ AI-powered chatbot system for automating campus information assistance.
 <td width="50%" align="center">
 
 
-## 🐍 Debugging Dare Platform
+## 🐍 Debugging Dare
 
 
-Interactive debugging challenge platform developed during Frontend Developer experience.
+Interactive coding challenge platform.
 
 
-<br>
+### Features
 
-
-**Features**
-
-✔ Dynamic Pages  
 ✔ Responsive UI  
-✔ Challenge Platform
+✔ Dynamic Rendering  
+✔ Debugging Challenges
 
 
-<br>
-
-
-**Tech Stack**
+### Tech Stack
 
 `Django` `Python` `Tailwind CSS`
 
@@ -257,7 +289,6 @@ Interactive debugging challenge platform developed during Frontend Developer exp
 
 
 </td>
-
 
 </tr>
 
@@ -271,8 +302,14 @@ Interactive debugging challenge platform developed during Frontend Developer exp
 
 <p align="center">
 
+
 <a href="https://leetcode.com/u/GAYATHRI1006/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+
+<a href="https://www.geeksforgeeks.org/profile/gayathrigexo2">
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
 </a>
 
 
@@ -312,7 +349,7 @@ Interactive debugging challenge platform developed during Frontend Developer exp
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 
 <p align="center">
@@ -329,9 +366,7 @@ Interactive debugging challenge platform developed during Frontend Developer exp
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GAYATHRI1006&show_icons=true&theme=tokyonight&hide_border=true">
 
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAYATHRI1006&layout=compact&theme=tokyonight&hide_border=true">
-
 
 </p>
 
@@ -345,7 +380,7 @@ Interactive debugging challenge platform developed during Frontend Developer exp
 
 ---
 
-# 📌 Contribution Activity
+# 📌 Contribution Graph
 
 
 <p align="center">
@@ -359,5 +394,7 @@ Interactive debugging challenge platform developed during Frontend Developer exp
 
 
 <p align="center">
-✨ Building reliable software solutions with code, creativity, and intelligence ✨
+
+✨ Transforming ideas into scalable software solutions with code, automation, and AI ✨
+
 </p>
