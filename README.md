@@ -293,6 +293,16 @@ Interactive debugging challenge platform.
 
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gayathri1006&theme=gruvbox&no-frame=true&row=1&column=6" />
+
+</p>
+
 
 ---
 
@@ -301,22 +311,24 @@ Interactive debugging challenge platform.
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GAYATHRI1006&show_icons=true&theme=tokyonight&hide_border=true"
+<img 
+width="48%" 
+src="https://github-readme-stats.vercel.app/api?username=gayathri1006&show_icons=true&theme=radical&hide_border=true" 
 />
 
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GAYATHRI1006&layout=compact&theme=tokyonight&hide_border=true"
+<img 
+width="48%" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathri1006&layout=compact&theme=radical&hide_border=true" 
 />
-
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GAYATHRI1006&theme=tokyonight&hide_border=true">
+<img 
+src="https://streak-stats.demolab.com/?user=gayathri1006&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+/>
 
 </p>
 
@@ -328,7 +340,9 @@ src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-lan
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GAYATHRI1006&theme=tokyo-night&hide_border=true">
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=gayathri1006&theme=tokyo-night&area=true&hide_border=true" 
+/>
 
 </p>
 
