@@ -293,15 +293,16 @@ Interactive debugging challenge platform.
 
 </p>
 
+
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 
 <p align="center">
 
 <img 
-src="https://github-readme-streak-stats-eight.vercel.app/?user=GAYATHRI1006&theme=tokyonight&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAYATHRI1006&theme=github_dark"
 />
 
 </p>
@@ -309,8 +310,45 @@ src="https://github-readme-streak-stats-eight.vercel.app/?user=GAYATHRI1006&them
 
 <p align="center">
 
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAYATHRI1006&theme=github_dark"
+/>
+
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAYATHRI1006&theme=github_dark"
+/>
+
+</p>
+
+
+<p align="center">
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GAYATHRI1006&theme=github_dark"
+/>
+
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAYATHRI1006&theme=github_dark&utcOffset=5.5"
+/>
+
+</p>
+
+
+---
+
+## 🔥 Contribution Streak
+
+
+<p align="center">
+
 <img 
-src="https://github-contributor-stats.vercel.app/api?username=GAYATHRI1006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+src="https://github-readme-streak-stats-eight.vercel.app/?user=GAYATHRI1006&theme=dark&hide_border=true"
 />
 
 </p>
@@ -324,44 +362,10 @@ src="https://github-contributor-stats.vercel.app/api?username=GAYATHRI1006&limit
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=GAYATHRI1006&theme=tokyo-night&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=GAYATHRI1006&theme=github-dark&hide_border=true"
 />
 
 </p>
 
 
 ---
-
-## 🏅 Achievements
-
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAYATHRI1006&theme=tokyonight"
-/>
-
-</p>
-
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAYATHRI1006&theme=tokyonight"
-/>
-
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAYATHRI1006&theme=tokyonight"
-/>
-
-</p>
-
-
----
-
-<p align="center">
-
-✨ Building reliable software solutions using Code + Automation + AI ✨
-
-</p>
