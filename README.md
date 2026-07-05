@@ -1,136 +1,363 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=header&text=Welcome+to+Gayathri's+GitHub+Profile💖&fontSize=30&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Hi,%20I'm%20Gayathri%20G%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+
 <h3 align="center">
-👩‍💻 <b>Frontend Enthusiast</b> | 💡 <b>Creative Coder</b> | 🌐 <b>Tech Fusionist</b> | 🤖 <b>Exploring the magic of Generative AI</b>
+🚀 Software Engineer | Full Stack Developer | AI Automation Engineer
 </h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Networking+Engineer;;AI+Researcher;IoT+System+Designer;Debugging+Champion;Always+Learning&center=true&width=500&height=30" alt="Typing SVG" />
-  
-</div>
-
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GAYATHRI1006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+Building scalable applications, intelligent automation workflows & AI-powered software solutions
 </p>
 
-## 💖 About me
-
-- 🎀 I blend **beauty and usability** into pixel-perfect, user-centered interfaces.  
-- 💡 A **curious developer** passionate about merging creativity with technology.  
-- 💻 Skilled in **Java, Python, React, Tailwind CSS, and MySQL** — building responsive and intelligent web applications.  
-- 🌱 Currently exploring **AI-powered SaaS**, **IoT-based systems**, and **modern full-stack development**.  
-- 🎯 Focused on crafting **intuitive, accessible, and impactful** digital experiences.  
-- 🌸 Believer in **design empathy**, **color psychology**, and **inclusive UX principles**.  
-- ✨ Always eager to **learn, build, and share** innovative tech ideas.  
-- 📬 Let’s connect & collaborate: **[gayathrigaya3ece@gmail.com](mailto:gayathrigaya3ece@gmail.com)**
-
----
-
-## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,django,react,tailwind,mysql,eclipse,html,css,js,figma,vscode,github,git,jdbc,arduino" />
+<img src="https://readme-typing-svg.demolab.com?lines=Java+Backend+Developer;Full+Stack+Engineer;AI+%26+LLM+Integration;Spring+Boot+Developer;Building+Production+Ready+Solutions&center=true&width=700&height=40">
 </p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=GAYATHRI1006&label=Profile%20Views&color=blue&style=flat">
+</p>
+
 
 ---
 
-## 🌟 Featured Projects
+# 👩‍💻 About Me
 
-<div align="center">
+Hi, I'm **Gayathri G**, a passionate **Software Engineer** focused on developing scalable backend systems, AI-powered applications, and automation solutions.
+
+- 💼 Associate Software Engineer with hands-on industry experience
+- 🔥 Experienced in building REST APIs, backend services & workflow automation systems
+- 🤖 Working with AI solutions using LLM integrations and MCP architecture
+- ⚙️ Developed business automation workflows integrating:
+  - WhatsApp Business API
+  - Telegram Bots
+  - CRM Systems
+  - Payment & Invoice Automation
+  - Third-party APIs
+
+- 💻 Strong foundation in:
+  - Data Structures & Algorithms
+  - Object-Oriented Programming
+  - Database Design
+  - System Development
+
+- 🌱 Currently improving:
+  - Advanced Java Backend Development
+  - Scalable System Design
+  - AI Engineering
+
+
+📩 Reach me: **gayathrigaya3ece@gmail.com**
+
+---
+
+# 🛠 Tech Stack
+
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
+</p>
+
+
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
+</p>
+
+- Spring Boot
+- REST API Development
+- FastAPI
+- JDBC
+- Maven
+- API Integrations
+
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+</p>
+
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse" />
+</p>
+
+
+### AI & Automation
+
+```
+✓ Large Language Models (LLMs)
+✓ MCP Architecture
+✓ Workflow Automation
+✓ AI Agents
+✓ CRM Automation
+✓ Business Process Automation
+```
+
+---
+
+# 🚀 Featured Projects
+
 
 <table>
-  <tr>
 
-<td align="center" width="33%" style="border: 3px dashed #3498db; border-radius: 12px; padding: 20px;">
-  <h3>🧠 Talk to Your Database</h3>
-  <p><em>AI-powered web app to query MySQL databases using plain English.</em></p>
-  <a href="https://github.com/GAYATHRI1006/Talk_To_Database" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-3498db?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <br><br>
-  <code>React</code> <code>FastAPI</code> <code>MySQL</code> <code>LLM APIs </code>
+<tr>
+
+
+<td width="50%" align="center">
+
+## 🧠 Talk To Your Database
+
+AI-powered SaaS application that converts natural language questions into SQL queries.
+
+<br>
+
+**Features**
+
+✔ Natural Language → SQL Conversion  
+✔ Gemini LLM Integration  
+✔ Conversational Database Querying  
+✔ Full Stack Architecture
+
+
+<br>
+
+**Tech Stack**
+
+`React` `FastAPI` `MySQL` `Gemini LLM`
+
+
+<a href="https://github.com/GAYATHRI1006/Talk_To_Database">
+<img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
+</a>
+
 </td>
 
 
-<td align="center" width="33%" style="border: 3px dotted #e84393; border-radius: 12px; padding: 20px;">
-  <h3>🐍 Debugging Dare</h3>
-  <p><em>A fun debugging challenge built using Django & Tailwind.</em></p>
-  <a href="https://github.com/GAYATHRI1006/Debugging_Dare" target="_blank">
-    <img src="https://img.shields.io/badge/View Repo-pink?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <br><br>
-  <code>Django</code> <code>Tailwind</code> <code>Python</code>
+<td width="50%" align="center">
+
+## 🛒 Shopping Mall Management System
+
+
+Order Management module built using enterprise backend architecture.
+
+
+<br>
+
+**Features**
+
+✔ CRUD Operations  
+✔ REST APIs  
+✔ Validation Handling  
+✔ Database Integration  
+
+
+<br>
+
+**Tech Stack**
+
+`Java` `Spring Boot` `PostgreSQL` `Postman`
+
+
+<a href="https://github.com/GAYATHRI1006">
+<img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
+</a>
+
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+
+<td width="50%" align="center">
+
+
+## 🤖 IFET Virtual Helpdesk
+
+
+AI-powered chatbot system for automating campus information assistance.
+
+
+<br>
+
+
+**Features**
+
+✔ NLP Based Chatbot  
+✔ FAQ Automation  
+✔ Admin Management  
+✔ Analytics Dashboard
+
+
+<br>
+
+
+**Tech Stack**
+
+`Rasa` `Python` `PostgreSQL` `Docker`
+
+
+<a href="https://github.com/GAYATHRI1006">
+<img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
+</a>
+
+
 </td>
 
 
-<td align="center" width="33%" style="border: 3px solid #27ae60; border-radius: 12px; padding: 20px;">
-  <h3>🌍 Earthquake Alert & Detection</h3>
-  <p><em>IoT-based earthquake alert system for seismic activity detection and prevention.</em></p>
-  <a href="https://github.com/GAYATHRI1006/Earthquake_Alert_System" target="_blank">
-    <img src="https://img.shields.io/badge/View Repo-green?style=for-the-badge&logo=arduino&logoColor=white" />
-  </a>
-  <br><br>
-    <code>ESP8266</code> <code>SW-420</code> <code>Solenoid Valve</code> <code>Blynk</code>
+
+<td width="50%" align="center">
+
+
+## 🐍 Debugging Dare Platform
+
+
+Interactive debugging challenge platform developed during Frontend Developer experience.
+
+
+<br>
+
+
+**Features**
+
+✔ Dynamic Pages  
+✔ Responsive UI  
+✔ Challenge Platform
+
+
+<br>
+
+
+**Tech Stack**
+
+`Django` `Python` `Tailwind CSS`
+
+
+<a href="https://github.com/GAYATHRI1006/Debugging_Dare">
+<img src="https://img.shields.io/badge/View Repository-black?style=for-the-badge&logo=github">
+</a>
+
+
 </td>
 
 
-  </tr>
+</tr>
+
 </table>
-</div>
+
 
 ---
 
-## 📬 Connect with Me
+# 📈 Coding Profiles
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gayathri1006" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/GAYATHRI1006/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="http://www.skillrack.com/profile/485348/638b5d1882a0efaf0e5fc49106291e892bf7d2d3" target="_blank">
-    <img src="https://img.shields.io/badge/-SkillRack-blueviolet?style=for-the-badge&logo=code&logoColor=white" />
-  </a>
-  <a href="https://gayathridevfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
+
+<a href="https://leetcode.com/u/GAYATHRI1006/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+
+<a href="http://www.skillrack.com/profile/485348/638b5d1882a0efaf0e5fc49106291e892bf7d2d3">
+<img src="https://img.shields.io/badge/SkillRack-purple?style=for-the-badge">
+</a>
+
+
 </p>
+
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌐 Connect With Me
+
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayathri1006&theme=gruvbox&no-frame=true&row=1&column=6" />
+
+
+<a href="https://www.linkedin.com/in/gayathri1006">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+
+<a href="https://gayathridevfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+</a>
+
+
+<a href="mailto:gayathrigaya3ece@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+
 </p>
+
 
 ---
 
-## 📊 GitHub Stats & Activity
+# 🏆 GitHub Achievements
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayathri1006&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathri1006&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=GAYATHRI1006&theme=algolia&no-frame=true&row=1">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gayathri1006&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
 
 ---
 
-## 🧠 Contribution Graph
+# 📊 GitHub Analytics
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayathri1006&theme=tokyo-night&area=true&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GAYATHRI1006&show_icons=true&theme=tokyonight&hide_border=true">
+
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAYATHRI1006&layout=compact&theme=tokyonight&hide_border=true">
+
+
 </p>
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=GAYATHRI1006&theme=tokyonight&hide_border=true">
+
+</p>
+
 
 ---
 
-<p align="center"><em>“Every line of code I write aims to make the world just a little more beautiful.”</em></p>
-<p align="center">💐 Hand-crafted with patience, pixels, and purpose.</p>
+# 📌 Contribution Activity
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GAYATHRI1006&theme=tokyo-night&hide_border=true">
+
+</p>
+
+
+---
+
+
+<p align="center">
+✨ Building reliable software solutions with code, creativity, and intelligence ✨
+</p>
